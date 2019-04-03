@@ -115,3 +115,10 @@ That man is my teacher.
 My teacher is very intelligent. 
 我的老師非常聰明。
 ```
+
+## Plus 更何況、而且
+- Plus + 句子
+```
+Plus, we bring a lot of papers home from school, and they don't all fit on the refrigerator. 
+更何況，我們常常從學校帶一大堆紙回家，而且冰箱門上根本不夠貼。
+```
