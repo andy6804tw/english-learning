@@ -131,3 +131,12 @@ Plus, we bring a lot of papers home from school, and they don't all fit on the r
 Luckily, there's a way that you can get rid of your waste without adding to that mess. 
 幸運的是，有一個方法可以讓你既處理掉這堆垃圾又不讓它們在垃圾場腐爛。
 ```
+
+## It's the best way to
+這是做 ... 最好的方法
+
+- it's the best way to + 動詞
+```
+It's the best way to use the fast lane, share the costs, but as well reduce pollution and congestion. 
+這是使用快速車道、分擔交通費用，同時減少汙染和塞車的最佳方式。
+```
