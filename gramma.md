@@ -140,3 +140,12 @@ Luckily, there's a way that you can get rid of your waste without adding to that
 It's the best way to use the fast lane, share the costs, but as well reduce pollution and congestion. 
 這是使用快速車道、分擔交通費用，同時減少汙染和塞車的最佳方式。
 ```
+
+## since
+由於、既然、因為
+
+- since + 句子
+```
+And since it analyzes the type of food that the child consumes, it suggests the perfect diet for them. 
+由於它會分析小孩吃的食物種類，它可以給予他們最佳的飲食建議。
+```
