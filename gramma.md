@@ -1,4 +1,22 @@
 
+## Imperative Sentence 祈使句  
+定義
+
+祈使句是用於表示要求、命令、警告、勸告的語氣。省略 You 主詞，直接由動詞組成句子。
+
+祈使句的結構
+
+- Be 動詞 + 補語  
+```
+Be quiet please! 
+（你）拜託安靜！  
+```
+- 動作動詞 + (受詞)  
+```
+Open the windows. 
+（你）開窗戶。  
+```
+
 ## Present Tense 現在式  
 定義
 
