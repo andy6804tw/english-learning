@@ -167,3 +167,57 @@ So the sky's the limit. You could do anything together.
 As a parent, you find yourself doing crazy things for your kids. 
 身為父母，你發現你會為了小孩做很瘋狂的事。
 ```
+
+## Article 冠詞  
+定義
+
+冠詞是用來標明、指定某一名詞的詞彙，依其要標明的名詞特性分為不定冠詞(a/an)、定冠詞(the)。
+
+### 冠詞的結構
+  - 不定冠詞 + 單數可數名詞
+```
+a book  
+一本書 
+```
+ - 定冠詞 + 所有名詞
+```
+the book  
+那本書  
+```
+- 不定冠詞的用法
+
+當「初次出現在句中」時使用 
+```
+There is a coin on the ground. 
+有個錢幣在地板上。
+```
+
+當單數可數名詞「任意一個」時使用 
+```
+I want to buy a car. 
+我想買台車。
+```
+- 定冠詞的用法
+當名詞「已經出現在句中」時使用 
+```
+You have a nice watch. Show me the watch.  
+你的手錶很不錯，給我看看那隻錶。
+```
+當用來「指特定的人事物」時使用 
+```
+He is the only person I can trust.  
+他是我唯一可以信任的人。
+```
+當其為「獨一無二的事物」時使用 
+```
+The earth goes around the sun.  
+地球繞著太陽轉。
+```
+
+比較表
+```
+不定冠詞	定冠詞	Ø
+a table	        the table	table (X)
+a tables (X)	the tables	tables
+a water (X)	the water	 water
+```
