@@ -158,3 +158,12 @@ And since it analyzes the type of food that the child consumes, it suggests the 
 So the sky's the limit. You could do anything together. 
 只有天空是極限。你們一起可以做任何事。
 ```
+
+## As
+身為、作為...
+
+- as + 名詞
+```
+As a parent, you find yourself doing crazy things for your kids. 
+身為父母，你發現你會為了小孩做很瘋狂的事。
+```
