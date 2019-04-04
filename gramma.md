@@ -149,3 +149,12 @@ It's the best way to use the fast lane, share the costs, but as well reduce poll
 And since it analyzes the type of food that the child consumes, it suggests the perfect diet for them. 
 由於它會分析小孩吃的食物種類，它可以給予他們最佳的飲食建議。
 ```
+
+## the sky's the limit
+只有天空是極限，引申為沒有極限、希望無窮的意思
+
+- the sky's the limit
+```
+So the sky's the limit. You could do anything together. 
+只有天空是極限。你們一起可以做任何事。
+```
