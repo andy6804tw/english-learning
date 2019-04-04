@@ -221,3 +221,13 @@ a table	        the table	table (X)
 a tables (X)	the tables	tables
 a water (X)	the water	 water
 ```
+
+
+## back and forth
+來來回回
+
+- 動詞 + back and forth
+```
+It's a simple way to work together on the same files too without sending emails back and forth. 
+也能輕易地共同編輯檔案，不必透過電子郵件寄來寄去。
+```
