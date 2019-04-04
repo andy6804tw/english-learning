@@ -231,3 +231,20 @@ a water (X)	the water	 water
 It's a simple way to work together on the same files too without sending emails back and forth. 
 也能輕易地共同編輯檔案，不必透過電子郵件寄來寄去。
 ```
+
+
+## I'd never
+我從未
+
+- I'd never + 過去分詞
+```
+It's not a hotel, and I'd never met my host before yesterday, so how did I end up here? 
+這不是一家飯店，而且昨天以前我從未見過我的房東，那我為什麼最後會住在這兒？
+```
+
+相關片語
+- I've never + 過去分詞
+```
+I’ve never been to Europe. 
+我從來沒有去過歐洲。
+```
