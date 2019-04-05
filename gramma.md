@@ -248,3 +248,12 @@ It's not a hotel, and I'd never met my host before yesterday, so how did I end u
 I’ve never been to Europe. 
 我從來沒有去過歐洲。
 ```
+
+## once in a while
+偶爾
+
+- 主句 + once in a while
+```
+It helps me pay for all my adventures and lets me treat myself to something special once in a while. 
+這能幫我支付所有旅程的費用，並讓我能時不時好好犒勞一下自己。
+```
