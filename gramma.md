@@ -257,3 +257,26 @@ I’ve never been to Europe.
 It helps me pay for all my adventures and lets me treat myself to something special once in a while. 
 這能幫我支付所有旅程的費用，並讓我能時不時好好犒勞一下自己。
 ```
+
+## Future Tense 未來式  
+定義
+未來式表達未來時態，分為簡單式與進行式。
+
+### 未來式的結構
+- 未來簡單式：will
+  - 主詞 + will + 原型動詞  
+```
+I will help you. 
+我會幫你。  
+未來簡單式：be going to
+主詞 + be going to + 原型動詞  
+I am going to help you. 
+我會幫你。  
+```
+
+- 未來進行式：will be
+  - 主詞 + will be + 現在分詞
+```    
+I will be sleeping on the sofa when you come home. 
+你回家的時候我會在沙發上睡覺。
+```
