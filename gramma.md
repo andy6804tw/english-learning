@@ -376,3 +376,49 @@ The painting in the corner is on discount.
 We had a party at Tom's house. 
 我們在湯姆家辦派對。
 ```
+
+## nfinitive 不定詞 
+定義
+
+不定詞是to＋原型動詞，其功能表示「目的、未來、可能的事」，在句子裡可表多種詞性。
+
+舉例
+> to run, to speak, to swim, to learn etc.
+
+### 不定詞的結構
+1. 不定詞為主詞 
+```
+To buy a house is not an easy goal for the young in this generation. 
+買一棟屋子對於這個世代的年輕人並不是一個簡單的目標。
+```
+
+2. it 為虛主詞；不定詞為主詞 
+```
+It is impossible to succeed without hard work. 
+不可能沒有努力就成功。  
+To succeed without hard work is impossible. 
+不可能沒有努力就成功。
+```
+
+3. 不定詞為補語 
+```
+My dream is to become a pilot. 
+我的夢想是當一名機師。
+```
+4. 不定詞為受詞 
+```
+I need to see a doctor. 
+我需要去看個醫生。
+```
+
+5. 不定詞為形容詞 
+```
+I am trying to find someone to help with my work. 
+我正在找可以幫忙我工作的人。
+```
+
+6. 不定詞為副詞 
+```
+She is working hard to buy a watch for her dad. 
+她為了買一隻手錶給爸爸而努力工作。
+```
