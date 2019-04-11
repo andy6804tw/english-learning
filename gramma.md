@@ -422,3 +422,18 @@ I am trying to find someone to help with my work.
 She is working hard to buy a watch for her dad. 
 她為了買一隻手錶給爸爸而努力工作。
 ```
+
+## every now and then
+三不五時
+
+- every now and then , + 主句
+```
+Every now and then, when you can see both the moon and the sun in the sky during the day, cool things can happen. 
+而且三不五時在白天，當你可以同時在天空中看到月亮和太陽時很酷的事就可能發生。
+```
+#### 相關片語
+- 動詞 + every now and then 
+```
+When you can see both the moon and the sun in the sky during the day, cool things can happen every now and then. 
+而且三不五時在白天，當你可以同時在天空中看到月亮和太陽時很酷的事就可能發生。
+```
