@@ -437,3 +437,45 @@ Every now and then, when you can see both the moon and the sun in the sky during
 When you can see both the moon and the sun in the sky during the day, cool things can happen every now and then. 
 而且三不五時在白天，當你可以同時在天空中看到月亮和太陽時很酷的事就可能發生。
 ```
+
+## 定義
+不定詞是to＋原型動詞，其功能表示「目的、未來、可能的事」，在句子裡可表多種詞性。
+
+舉例
+>to run, to speak, to swim, to learn etc.
+
+### 不定詞的結構
+- 不定詞為主詞 
+```
+To buy a house is not an easy goal for the young in this generation. 
+買一棟屋子對於這個世代的年輕人並不是一個簡單的目標。
+```
+
+- it 為虛主詞；不定詞為主詞 
+```
+It is impossible to succeed without hard work. 
+不可能沒有努力就成功。  
+To succeed without hard work is impossible. 
+不可能沒有努力就成功。
+```
+
+- 不定詞為補語 
+```
+My dream is to become a pilot. 
+我的夢想是當一名機師。
+```
+- 不定詞為受詞 
+```
+I need to see a doctor. 
+我需要去看個醫生。
+```
+- 不定詞為形容詞 
+```
+I am trying to find someone to help with my work. 
+我正在找可以幫忙我工作的人。
+```
+- 不定詞為副詞 
+```
+She is working hard to buy a watch for her dad. 
+她為了買一隻手錶給爸爸而努力工作。
+```
