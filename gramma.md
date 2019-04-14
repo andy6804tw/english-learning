@@ -502,3 +502,13 @@ She enjoys baking cookies.
 She is good at making me smile. 
 她很會讓我開心。
 ```
+
+## chances are
+
+極有可能
+
+- chances are + 子句
+```
+No matter who you are or where you come from, chances are you spend a lot of time imagining things. 
+不管你在哪裡或你來自何方，你可能常常花很多時間想像一些事。
+```
