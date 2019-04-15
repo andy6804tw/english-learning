@@ -541,7 +541,14 @@ I’ll never forget the day when I first met him.
 我永遠不會忘記初次見到他的那一天。
 ```
 ### 形容詞子句的限定用法 
+- 形容詞子句的限定用法 
 ```
 The vegetables that people leave uneaten are often the most nutritious. 
 人們不吃的蔬菜通常是最營養的。
+```
+
+- 形容詞子句的非限定用法 
+```
+Broccoli, which people often leave uneaten, is very nutritious. 
+人們常不吃的青花菜很營養。
 ```
