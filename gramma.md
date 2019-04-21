@@ -590,3 +590,13 @@ Where were you yesterday?
 How did you do it? 
 你是怎麼做到的？
 ```
+
+## confident in
+
+對...有信心
+
+- confident in + 名詞
+```
+Be confident in your body. 
+對妳的身體充滿自信。
+```
