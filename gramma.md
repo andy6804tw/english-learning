@@ -600,3 +600,12 @@ How did you do it?
 Be confident in your body. 
 對妳的身體充滿自信。
 ```
+
+## afraid to
+對...感到害怕
+
+- afraid to + 動詞
+```
+Surround yourself with people who are not afraid to make fun of themselves. 
+讓你身邊圍繞不害怕自嘲的人。
+```
