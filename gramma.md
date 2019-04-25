@@ -609,3 +609,21 @@ Be confident in your body.
 Surround yourself with people who are not afraid to make fun of themselves. 
 讓你身邊圍繞不害怕自嘲的人。
 ```
+
+## Be Verb Be動詞 
+定義
+Be 動詞是用來幫助說明主詞的動詞，表示主詞的身份、狀態、類別、特徵。
+
+> am, is, are, was, were
+
+### Be 動詞的結構
+- 主詞 + Be 動詞 + 名詞  
+```
+That man is my teacher. 
+那個男人是我的老師。  
+```
+- 主詞 + Be 動詞 + 形容詞  
+```
+My teacher is very intelligent. 
+我的老師非常聰明。  
+```
