@@ -646,3 +646,20 @@ The man entered the house.
 The man slept for two hours. 
 那男人睡了兩小時。
 ```
+
+## Frequency Adverbs 頻率副詞
+頻率副詞用來表示動作發生的頻率或次數，常用於現在簡單式中。
+
+>always (85%-100%), usually (85%), often (70%), sometimes (50%), rarel (15%), never (0%)
+
+### 頻率副詞的結構
+- Be 動詞 + 頻率副詞
+```  
+It is always rainy in Keelung. 
+基隆總是在下雨。  
+```
+- 頻率副詞 + 動作動詞  
+```
+I usually drink before going to bed. 
+我睡前通常會小酌一杯。  
+```
