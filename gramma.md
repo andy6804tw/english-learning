@@ -663,3 +663,12 @@ It is always rainy in Keelung.
 I usually drink before going to bed. 
 我睡前通常會小酌一杯。  
 ```
+
+## suggest that
+建議
+
+- suggest that + 子句
+```
+Kind of looking for a little bit of an adventure, I suggested that maybe we drive to the local state park. 
+我們大概上是在找些冒險，我建議也許我們可以去當地的州立公園。
+```
