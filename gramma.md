@@ -672,3 +672,13 @@ I usually drink before going to bed.
 Kind of looking for a little bit of an adventure, I suggested that maybe we drive to the local state park. 
 我們大概上是在找些冒險，我建議也許我們可以去當地的州立公園。
 ```
+
+## be better for
+
+對...比較好
+
+- be better for + 名詞 + 動詞
+```
+And it was better for him to leave and live in a tent and fish after work than to live in that house with her. 
+對他來說，離開、住在帳篷裡、上班完釣魚的日子比跟她一起住在那個房子來的好。
+```
