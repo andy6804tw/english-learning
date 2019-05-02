@@ -682,3 +682,4 @@ Kind of looking for a little bit of an adventure, I suggested that maybe we driv
 And it was better for him to leave and live in a tent and fish after work than to live in that house with her. 
 對他來說，離開、住在帳篷裡、上班完釣魚的日子比跟她一起住在那個房子來的好。
 ```
+ 
