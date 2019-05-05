@@ -683,3 +683,43 @@ And it was better for him to leave and live in a tent and fish after work than t
 對他來說，離開、住在帳篷裡、上班完釣魚的日子比跟她一起住在那個房子來的好。
 ```
  
+
+ ## Past Tense 過去式
+過去式表達過去時態，分為簡單式與進行式。
+
+### 過去式的結構
+####  過去簡單式
+- 主詞 + 過去式動詞
+I was really tired yesterday.  
+我昨天很累。  
+I worked for the whole day yesterday.  
+我昨天工作了一整天。
+
+#### 過去進行式
+- 主詞 + was/were + 現在分詞  
+I was taking a nap when you called me.  
+你打給我的時候我正在睡覺。
+
+### 常見不規則過去式
+```
+現在式	過去式
+say	said
+make	made
+go	went
+take	took
+come	came
+see	saw
+know	knew
+see	saw
+get	got
+give	gave
+eat	ate
+think	thought
+tell	told
+stand	stood
+run	ran
+bring	brought
+begin	began
+keep	kept
+write	wrote
+```
