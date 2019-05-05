@@ -723,3 +723,22 @@ begin	began
 keep	kept
 write	wrote
 ```
+
+## Action Verb 動作動詞  
+動作動詞就是表達主詞實際動作的動詞。
+
+> walk, dance, hit, write, get, have, etc.
+
+### 動作動詞的結構
+#### 及物動詞
+- 主詞 + 及物動詞 + 受詞  
+```
+The man entered the house. 
+那男人進入了房子裡。
+```  
+#### 不及物動詞 
+- 主詞 + 不及物動詞 
+```
+The man slept for two hours. 
+那男人睡了兩小時。
+```
