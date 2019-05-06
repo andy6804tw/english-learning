@@ -742,3 +742,69 @@ The man entered the house.
 The man slept for two hours. 
 那男人睡了兩小時。
 ```
+
+## Auxiliary Verb 助動詞  
+
+助動詞是幫助修飾動詞的詞，形成各種時態、語氣、語態、疑問句、或否定句。
+### 助動詞的結構
+- 助動詞 + 原型動詞  
+```
+She must be sad. 
+她一定很難過。  
+```
+- 助動詞 + not + 原型動詞  
+```
+He will not go home next week. 
+他下週不會回家。  
+```
+- 助動詞 + 主詞 + 原型動詞 + ？  
+```
+Can I borrow your pen?  
+我可以借你的筆嗎？  
+```
+### 助動詞的用法
+- 表示能力 can, could 
+```
+I can swim. 
+我會游泳。
+I could dance when I was young. 
+我年輕的時候會跳舞。
+```
+- 表示必須、應該 must, should, ought to
+```
+You must not eat or drink on the metro. 
+你不能在捷運上飲食。
+You should care for each other. 
+你們應該要關愛彼此。
+You ought to be honest. 
+你應該要誠實。
+```
+- 表示可能、推測 may, might, could, should
+```
+It might rain tomorrow. 
+明天說不定會下雨。
+This couldn't be true! 
+這不可能是真的！
+She should be home by now. 
+她現在應該已經到家了。
+```
+- 表示個人意志 will, would
+```
+He won’t listen to us. 
+他不會聽我們的。
+I wouldn’t eat vegetables when I was a little girl. 
+我小時候不吃青菜。
+```
+- 表示詢問 will, would, shall, may, can
+```
+Will you please shut up? 
+你可以閉嘴嗎？
+Would you close the door? 
+你可以關上門嗎？
+Shall I buy something for you?  
+我應該要幫你買點什麼嗎？
+May I come in?  
+我可以進來嗎？
+Can she join us? 
+她可以加入我們嗎？
+```
