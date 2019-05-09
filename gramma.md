@@ -808,4 +808,13 @@ May I come in?
 Can she join us? 
 她可以加入我們嗎？
 ```
- 
+
+
+## Instead
+反而、卻
+
+- Instead + 句子
+```
+But no. Instead, he spends hours destroying random things he found in the garden to present to his date. 
+但不。反而，他花了好幾個小時破壞他在庭院裡找到的隨機物品，要呈獻給他的約會對象。
+```
