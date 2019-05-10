@@ -818,3 +818,12 @@ Can she join us?
 But no. Instead, he spends hours destroying random things he found in the garden to present to his date. 
 但不。反而，他花了好幾個小時破壞他在庭院裡找到的隨機物品，要呈獻給他的約會對象。
 ```
+
+## by the way
+順便一提
+
+- 句子 + by the way
+```
+Oh, and they shake. It's not even an impressive trick, by the way. 
+噢，然後他們握手。順便一提，這根本不是什麼了不起的招數。
+```
