@@ -827,3 +827,12 @@ But no. Instead, he spends hours destroying random things he found in the garden
 Oh, and they shake. It's not even an impressive trick, by the way. 
 噢，然後他們握手。順便一提，這根本不是什麼了不起的招數。
 ```
+
+## Finally
+最後、終於
+
+- Finally + 句子
+```
+Finally, journalists suggested that every supermarket in the country should do that. 
+最後，記者提議國內每個超市都應這麼做。
+```
