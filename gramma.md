@@ -836,3 +836,12 @@ Oh, and they shake. It's not even an impressive trick, by the way.
 Finally, journalists suggested that every supermarket in the country should do that. 
 最後，記者提議國內每個超市都應這麼做。
 ```
+
+## stick to
+堅持
+
+- stick to + 名詞
+```
+It's all part of their long periods of indecision, but once they make a choice, they stick to it. 
+他們總是花很長的時間做決定，但一旦他們做出選擇後，便會堅持到底。
+```
