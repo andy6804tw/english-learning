@@ -845,3 +845,12 @@ Finally, journalists suggested that every supermarket in the country should do t
 It's all part of their long periods of indecision, but once they make a choice, they stick to it. 
 他們總是花很長的時間做決定，但一旦他們做出選擇後，便會堅持到底。
 ```
+
+## anymore
+不再
+
+-句子 + anymore
+```
+It's not only for the monks anymore. 
+它並不再專屬於和尚。
+```
