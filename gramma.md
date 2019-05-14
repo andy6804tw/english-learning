@@ -854,3 +854,12 @@ It's all part of their long periods of indecision, but once they make a choice, 
 It's not only for the monks anymore. 
 它並不再專屬於和尚。
 ```
+
+## be interested in
+對…感興趣
+
+-be interested in + 名詞 或 動名詞
+```
+So, are you interested in finding out more about meditation but don't have enough time? 
+那麼，你是否想要多了解冥想，但找不到時間？
+```
