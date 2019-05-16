@@ -863,3 +863,12 @@ It's not only for the monks anymore.
 So, are you interested in finding out more about meditation but don't have enough time? 
 那麼，你是否想要多了解冥想，但找不到時間？
 ```
+
+## especially
+特別是...
+
+- especially + 子句
+```
+It kind of protrudes a little bit, especially when I smile. 
+有點突出來，尤其當我在笑的時候。
+```
