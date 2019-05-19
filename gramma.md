@@ -872,3 +872,12 @@ So, are you interested in finding out more about meditation but don't have enoug
 It kind of protrudes a little bit, especially when I smile. 
 有點突出來，尤其當我在笑的時候。
 ```
+
+## quite
+完全地、徹底地
+
+- quite + 形容詞
+```
+We spend a lot of time as women analyzing and trying to fix the things that aren't quite right. 
+身為女人，我們花了很多時間，去分析、嘗試修改不夠好的地方。
+```
