@@ -890,3 +890,11 @@ We spend a lot of time as women analyzing and trying to fix the things that aren
 So you can make history by recording it. 
 所以藉由錄音，你可以創造歷史。
 ```
+
+## unlike
+不像
+- unlike + 名詞
+```
+However, dogs exude a sense of warmness to other dogs and humans, unlike the wolf's reaction to others. 
+但是狗狗對其他狗跟人的態度是溫暖、親近的，不像狼跟其他動物接觸時的反應。
+```
