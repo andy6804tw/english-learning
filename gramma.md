@@ -881,3 +881,12 @@ It kind of protrudes a little bit, especially when I smile.
 We spend a lot of time as women analyzing and trying to fix the things that aren't quite right. 
 身為女人，我們花了很多時間，去分析、嘗試修改不夠好的地方。
 ```
+
+## by
+用、藉由、透過
+
+- by + 名詞
+```
+So you can make history by recording it. 
+所以藉由錄音，你可以創造歷史。
+```
