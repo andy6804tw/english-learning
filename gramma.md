@@ -899,3 +899,9 @@ However, dogs exude a sense of warmness to other dogs and humans, unlike the wol
 但是狗狗對其他狗跟人的態度是溫暖、親近的，不像狼跟其他動物接觸時的反應。
 ```
 
+## in return
+作為回報
+```
+A big salute to those four-legged guards working without anything in return. 
+一個大大的敬佩給這些四條腿的守護者，不求回報的付出。
+```
