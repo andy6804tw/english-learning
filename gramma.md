@@ -905,3 +905,12 @@ However, dogs exude a sense of warmness to other dogs and humans, unlike the wol
 A big salute to those four-legged guards working without anything in return. 
 一個大大的敬佩給這些四條腿的守護者，不求回報的付出。
 ```
+
+## on one's way
+在往...的路上
+
+- on one's way + to + 地點
+```
+I was on my way to work, and I slipped down my staircase. 
+那時候我正要去上班，下樓梯時卻滑倒跌了下去。
+```
