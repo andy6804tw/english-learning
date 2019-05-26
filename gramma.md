@@ -914,3 +914,12 @@ A big salute to those four-legged guards working without anything in return.
 I was on my way to work, and I slipped down my staircase. 
 那時候我正要去上班，下樓梯時卻滑倒跌了下去。
 ```
+
+## a variety of
+各種各樣
+
+- a variety of + 名詞
+```
+I see a variety of birds out there. 
+我看見空中各式各樣的飛鳥。
+```
