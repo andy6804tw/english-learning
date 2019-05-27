@@ -923,3 +923,12 @@ I was on my way to work, and I slipped down my staircase.
 I see a variety of birds out there. 
 我看見空中各式各樣的飛鳥。
 ```
+
+## come to terms with
+漸漸讓自己接受或忍受某件事
+
+- come to terms with + 名詞
+```
+Coming to terms with the loss of a best friend, a grandparent, a loved one.
+逐漸接受最好的朋友、祖父母、愛人離世。 
+```
