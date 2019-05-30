@@ -933,3 +933,11 @@ Coming to terms with the loss of a best friend, a grandparent, a loved one.
 逐漸接受最好的朋友、祖父母、愛人離世。 
 ```
 
+## either...or...
+兩者擇一、不是...就是...
+
+- either + 動詞／名詞／句子 + or + 動詞／名詞／句子
+```
+That really was my bottom point. That's the point that I really decided that, you know, I'm either gonna die or I have to do something. 
+這是我的最低潮，這時我真正下定決心，我要嘛一死了之，不然我一定得做出改變。
+```
