@@ -933,3 +933,12 @@ Coming to terms with the loss of a best friend, a grandparent, a loved one.
 逐漸接受最好的朋友、祖父母、愛人離世。 
 ```
 
+## all the time
+無時無刻、總是
+
+- 句子 + all the time
+```
+He had arthritis and all kinds of rashes, and his skin was just itching all the time. 
+他患有關節炎、各式各樣的疹子，皮膚也好像無時無刻都在發癢。
+
+```
