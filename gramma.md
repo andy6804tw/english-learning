@@ -960,3 +960,12 @@ It's up to us, the citizens of this country, of this world, to say "We're fed up
 About 6 months later, after a race, suddenly, it just came into my mind: "Just drive over to the shelter right now." And I did. 
 大約六個月之後，我剛跑完一場馬拉松，腦中突然浮現：「現在就去收容所看看吧！」我便馬上行動。
 ```
+
+## either...or...
+兩者擇一、不是...就是...
+
+- either + 動詞／名詞／句子 + or + 動詞／名詞／句子
+```
+That really was my bottom point. That's the point that I really decided that, you know, I'm either gonna die or I have to do something. 
+這是我的最低潮，這時我真正下定決心，我要嘛一死了之，不然我一定得做出改變。
+```
