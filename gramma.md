@@ -942,3 +942,12 @@ He had arthritis and all kinds of rashes, and his skin was just itching all the 
 他患有關節炎、各式各樣的疹子，皮膚也好像無時無刻都在發癢。
 
 ```
+
+## be fed up with
+受夠了
+
+- be fed up with + 名詞／動名詞
+```
+It's up to us, the citizens of this country, of this world, to say "We're fed up with food waste, and it's time to take food waste off the menu." 
+這是整個國家甚至全世界的人的共同責任，我們應該要大聲說「我們受夠食物浪費了！是時候停止食物浪費。」
+```
