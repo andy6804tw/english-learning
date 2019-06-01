@@ -951,3 +951,12 @@ He had arthritis and all kinds of rashes, and his skin was just itching all the 
 It's up to us, the citizens of this country, of this world, to say "We're fed up with food waste, and it's time to take food waste off the menu." 
 這是整個國家甚至全世界的人的共同責任，我們應該要大聲說「我們受夠食物浪費了！是時候停止食物浪費。」
 ```
+
+## come into my mind
+腦中浮現
+
+- 名詞 + come into my mind
+```
+About 6 months later, after a race, suddenly, it just came into my mind: "Just drive over to the shelter right now." And I did. 
+大約六個月之後，我剛跑完一場馬拉松，腦中突然浮現：「現在就去收容所看看吧！」我便馬上行動。
+```
