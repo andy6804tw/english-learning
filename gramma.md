@@ -978,3 +978,44 @@ That really was my bottom point. That's the point that I really decided that, yo
 The more discoveries you make, the more you realize you don't know what's going on, the more you realize you don't know. 
 發現越多，你會發覺更多未知。
 ```
+
+## Adjective Clause 形容詞子句
+定義
+
+形容詞子句是由三個條件構成：一個主詞＋一個動詞、以關係代名詞或關係副詞作為句子開頭、其作為形容詞使用修飾主要子句中的名詞。
+
+### 形容詞子句的結構
+- 關代/關副 + 主詞 + 動詞  
+```
+He's the man whom I love 
+他是我愛的男人。  
+```
+- 關代＝主詞 + 動詞  
+```
+He's the man who was close to death 
+他是接近死亡的人。
+```
+
+### 形容詞子句的用法
+- 由關係代名詞(who, which, that, whose)引導 
+```
+She is a writer who writes novels. 
+她是一位寫小說的作家。
+```
+- 由關係副詞(when, where, why, how)引導 
+```
+I’ll never forget the day when I first met him. 
+我永遠不會忘記初次見到他的那一天。
+```
+
+### 形容詞子句的限定用法
+- 形容詞子句的限定用法 
+```
+The vegetables that people leave uneaten are often the most nutritious. 
+人們不吃的蔬菜通常是最營養的。
+```
+- 形容詞子句的非限定用法 
+```
+Broccoli, which people often leave uneaten, is very nutritious. 
+人們常不吃的青花菜很營養。
+```
