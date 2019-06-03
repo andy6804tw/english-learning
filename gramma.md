@@ -969,3 +969,12 @@ About 6 months later, after a race, suddenly, it just came into my mind: "Just d
 That really was my bottom point. That's the point that I really decided that, you know, I'm either gonna die or I have to do something. 
 這是我的最低潮，這時我真正下定決心，我要嘛一死了之，不然我一定得做出改變。
 ```
+
+## the more... the more...
+越...越...
+
+- the more + 子句 , the more + 子句
+```
+The more discoveries you make, the more you realize you don't know what's going on, the more you realize you don't know. 
+發現越多，你會發覺更多未知。
+```
