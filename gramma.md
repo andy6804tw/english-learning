@@ -1035,3 +1035,22 @@ Did you see my cellphone?
 Is he nervous? 
 他緊張嗎？
 ```
+
+- 疑問代名詞 + 動詞  
+```
+Who took this picture of you? 
+是誰幫你拍的照片？  
+What took you so long? 
+是什麼事耽誤你了？
+```
+- 疑問副詞 + 助動詞/Be 動詞 + 主詞 + (原型動詞)  
+```
+When did this happen? 
+是什麼時候發生的？  
+Why did you skip class? 
+你為什麼翹課？  
+Where were you yesterday? 
+你昨天在哪裡？  
+How did you do it? 
+你是怎麼做到的？
+```
