@@ -1054,3 +1054,26 @@ Where were you yesterday?
 How did you do it? 
 你是怎麼做到的？
 ```
+
+## 定義
+動名詞毫無例外由 ing 結尾，作為名詞。
+
+舉例
+>running, speaking, swimming, learning etc.
+
+### 動名詞的結構
+- 動名詞為主詞 
+```
+Playing the piano is difficult for Jessie. 
+彈鋼琴對潔西來說很困難。
+```
+- 動名詞為動作受詞 
+```
+She enjoys baking cookies. 
+她喜歡烤餅乾。
+```
+- 動名詞為介系詞受詞 
+```
+She is good at making me smile. 
+她很會讓我開心。
+```
