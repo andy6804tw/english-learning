@@ -1019,3 +1019,19 @@ The vegetables that people leave uneaten are often the most nutritious.
 Broccoli, which people often leave uneaten, is very nutritious. 
 人們常不吃的青花菜很營養。
 ```
+
+## Interrogative Sentence 疑問句
+定義
+疑問句是用於詢問人、事、物的語氣。
+
+### 疑問句的結構
+- 助動詞 + 主詞 + 動詞 ?  
+```
+Did you see my cellphone? 
+你有看到我的手機嗎？
+```
+- Be 動詞 + 主詞 + 補語 ?
+```
+Is he nervous? 
+他緊張嗎？
+```
