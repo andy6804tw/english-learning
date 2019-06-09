@@ -1077,3 +1077,18 @@ She enjoys baking cookies.
 She is good at making me smile. 
 她很會讓我開心。
 ```
+
+## pick up
+改善、撿起、接
+
+- 主詞 + pick up
+```
+Nike pays him more than $20 million dollars a year, and his golf course design business has picked up. 
+Nike一年付他超過2000萬，他的高爾夫球場設計事業也蒸蒸日上。
+```
+### 相關片語
+- pick + 名詞 + up 
+```
+You dropped your wallet, so I picked it up for you. 
+你錢包掉了，所以我撿了起來。
+```
