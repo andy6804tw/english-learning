@@ -1092,3 +1092,11 @@ Nike一年付他超過2000萬，他的高爾夫球場設計事業也蒸蒸日上
 You dropped your wallet, so I picked it up for you. 
 你錢包掉了，所以我撿了起來。
 ```
+## when it comes to
+說到...
+
+- when it comes to + 名詞
+```
+He is Adidas' biggest sponsor when it comes to promoting soccer around the world. 
+他是 Adidas 在推廣足球運動中最大的贊助對象。
+```
