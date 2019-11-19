@@ -87,7 +87,7 @@ quarterly inspection (副+名)
 looked remarkably (動+副)
 collaboratively developed (副＋動)
 ```
-
+#### 副+(動)
 1. Many voters in this city are uninterested, and only about 15% of them are ____ active.
 ```
 (A) politically
@@ -97,7 +97,26 @@ collaboratively developed (副＋動)
 ```
 > ans: A
 
-2. Following the restoration project, the lobby of the historical Kirkwood Hotel looked ___ like its original state.
+2. Three of the new chemists, who ____ developed the material, will be recongnized by the CEO at Saturday's ceremony.
+```
+(A) collaborating
+(B) collaborate
+(C) collaboratively
+(D) collaborative
+```
+> ans: C
+
+3. Ms. Stevens ____ acknowledged that she was unable to complete the task in the specified time frame.
+```
+(A) regretfully
+(B) regret
+(C) regrets
+(D) regretful
+```
+> ans: A
+
+#### 副詞句尾
+1. Following the restoration project, the lobby of the historical Kirkwood Hotel looked ___ like its original state.
 ```
 (A) remarkably 
 (B) remarking
@@ -106,14 +125,16 @@ collaboratively developed (副＋動)
 ```
 > ans: A
 
-3. Three of the new chemists, who ____ developed the material, will be recongnized by the CEO at Saturday's ceremony.
+
+### 副+(名)
+1. Weekly ____ of the facility help to ensure that minor maintenance issue are discoved and resolved early.
 ```
-(A) collaborating
-(B) collaborate
-(C) collaboratively
-(D) collaborative
+(A) investigations
+(B) investigated
+(C) investigative
+(D) investigates
 ```
-> ans: C
+> ans: A
 
 ### 動詞
 
@@ -174,3 +195,13 @@ collaboratively developed (副＋動)
 (D) accepted
 ```
 > and: D
+
+### 動+(形)
+1. The home's sale becomes ____ when the offical document is recorded at the county office.
+```
+(A) finally
+(B) finalize
+(C) finals
+(D) final
+```
+> ans: D
