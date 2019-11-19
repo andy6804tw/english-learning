@@ -18,6 +18,43 @@
 ```
 > ans: D
 
+### 名詞
+1. A certificate of ____ was given to the participants in the public speaking skill course.
+```
+(A) accomplishment
+(B) accomplish
+(C) accomplished
+(D) accomplishing
+```
+> ans: A
+
+2. Agate agent at the airport announced a flight ____ caused by severe weather at the destination.
+```
+(A) canceling
+(B) cancels
+(C) cancellation
+(D) cancel
+```
+> ans: C
+
+3. Sales ____ unvaliable to take your call at the monent will call you back as soon as possible.
+```
+(A) representation
+(B) represents
+(C) representatives
+(D) representative
+```
+> ans: C
+
+4. Employees who attend the workshop on improving communication skill will be given a certificate of ____ by the instructor.
+```
+(A) achieved
+(B) achieving
+(C) achieve
+(D) achievement
+```
+> ans: D
+
 ### 形+(名)
 
 1. To combat mental illness, the clinic will take a more comprehensive ____ than it did in the past.
@@ -37,6 +74,43 @@
 (D) issued
 ```
 > ans: C
+
+3. The new polices were implemented in an effort to encourage better ____ among yhe corporation's departments.
+```
+(A) communication
+(B) communicative
+(C) communicate
+(D) communicator
+```
+> ans: A
+
+4. The project would not have been a success without Mr. Ratcliffe's complete ____, which was demonstrated on several occasions.
+```
+(A) dedicated
+(B) dedicate
+(C) dedicates
+(D) dedication
+```
+> ans: D
+
+### 形容詞
+1. The negotiators made a few minor changes to the contract to make the terms ____ to both parties.
+```
+(A) agreeable
+(B) agreement
+(C) agree
+(D) agreeing
+```
+> ans:A
+
+2. Should the customer believe that the proposed color scheme is not ____, the interior designer can make adjustments.
+```
+(A) attract
+(B) attractive
+(C) attracted
+(D) attractively
+```
+> ans: B
 
 ### (形)+名
 - the 定冠詞 + 名詞
@@ -79,6 +153,33 @@
 ```
 > ans: A
 
+5. Investigators visited the site to ensure that it complied with the ____ regulations in the field.
+```
+(A) applicability
+(B) apply
+(C) applies
+(D) applicable
+```
+> ans: D
+
+6. The train delays on the Trenton line were caused by a ____ error at one of the sataions.
+```
+(A) proceed
+(B) proceeded
+(C) procedural
+(D) procedurally
+```
+> ans: C
+
+7. The balconies connected to the rooms at the Orwell Hotel provide a ____ vire of a private beach.
+```
+(A) stunningly
+(B) stuns
+(C) stunning
+(D) stunned
+```
+> ans: C
+
 ### 副詞
 副詞修飾形容詞、動詞、副詞
 
@@ -115,6 +216,44 @@ collaboratively developed (副＋動)
 ```
 > ans: A
 
+### (副)+動
+1. This palace was ____ used for public ceremonies and celebrations.
+```
+(A) traditionally
+(B) traditional
+(C) tradition
+(D) traditions
+```
+> ans: A
+
+2. Those giving demostrations at the department store ____ explained the product's features and benefits.
+```
+(A) enthusiasm
+(B) enthusiast
+(C) enthusiastically
+(D) enthusiastic
+```
+> ans: C
+
+3. ____ occurring substances are used in the vitamin supplement instead of chemicals.
+```
+(A) Naturally
+(B) Natural
+(C) Naturalize
+(D) Nature
+```
+> ans: A
+
+### (副)+形
+1. After examining the vehicle the mechanic had ____ identified the reason why the engine lost power.
+```
+(A) corrections
+(B) correctly
+(C) correct
+(D) corrects
+```
+> ans: B
+
 #### 副詞句尾
 1. Following the restoration project, the lobby of the historical Kirkwood Hotel looked ___ like its original state.
 ```
@@ -124,6 +263,16 @@ collaboratively developed (副＋動)
 (D) remarked
 ```
 > ans: A
+
+2. Rather than decorating each conference room ____, the owner of Norris Hall bought furnishings in bulk and gave the spaces the same appearance.
+```
+(A) differing
+(B) difference
+(C) differently
+(D) differs
+```
+> ans: C
+
 
 
 ### 副+(名)
@@ -196,6 +345,33 @@ collaboratively developed (副＋動)
 ```
 > and: D
 
+2. Brenda Tipton is ____ to win the race for mayor because she has the most experience of all the camdidates.
+```
+(A) predictable
+(B) predict
+(C) predicts
+(D) predicted
+```
+> ans: D
+
+3. The National Health Organization reported on the ____ cases of the disease.
+```
+(A) confirmation
+(B) confirms
+(C) confirm
+(D) confirmed
+```
+> ans: D
+
+4. As ____ by the researchers, the new enviromentally friendly laundry detergent performed as well as its competitors.
+```
+(A) observing
+(B) observed
+(C) observation
+(D) observe
+```
+> ans: B
+
 ### 動+(形)
 1. The home's sale becomes ____ when the offical document is recorded at the county office.
 ```
@@ -205,3 +381,23 @@ collaboratively developed (副＋動)
 (D) final
 ```
 > ans: D
+
+### 動+(名)
+1. Mr. Hughes broke up the staff into small discussion grops to improve ____ in meetings.
+```
+(A) participation
+(B) participates
+(C) participant
+(D) participated
+```
+> ans: A
+
+### 不定詞 to + 原V
+1. The CEO held a press conference to ____ for the negative health effects caused by her company's products.
+```
+(A) apologized
+(B) apologize
+(C) apologizes
+(D) apologizing
+```
+> ans: B
