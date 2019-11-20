@@ -55,6 +55,24 @@
 ```
 > ans: D
 
+5. Due to his decades of experience, Mr. Finley was responsible for the training of the ____ for the new gym.
+```
+(A) instructors
+(B) instructive
+(C) instructively
+(D) instructed
+```
+> ans: A
+
+6. To make the tour accessible to Spanish speakers, the language ____ plans to provide translation services.
+```
+(A) interpreted
+(B) to interpret
+(C) interpreting
+(D) interpreter
+```
+> ans: D
+
 ### 形+(名)
 
 1. To combat mental illness, the clinic will take a more comprehensive ____ than it did in the past.
@@ -111,6 +129,15 @@
 (D) attractively
 ```
 > ans: B
+
+3. Prior to a viewing by potential buyers. the real estate agent makes sure the home is ____.
+```
+(A) presentation
+(B) presenting
+(C) presentable
+(D) present
+```
+> ans: C
 
 ### (形)+名
 - the 定冠詞 + 名詞
@@ -180,6 +207,15 @@
 ```
 > ans: C
 
+8. After noticing the wardrobe's ____ condition, the owner of the antique shop lowered its price.
+```
+(A) deteriorates
+(B) deteriorating
+(C) deterioration
+(D) deteriorate
+```
+> ans: B
+
 ### 副詞
 副詞修飾形容詞、動詞、副詞
 
@@ -244,6 +280,15 @@ collaboratively developed (副＋動)
 ```
 > ans: A
 
+4. The penalties for canceling the cell phone contract early were ____ stated in the agreement.
+```
+(A) express
+(B) expression
+(C) expressly
+(D) expressed
+```
+> ans: C
+
 ### (副)+形
 1. After examining the vehicle the mechanic had ____ identified the reason why the engine lost power.
 ```
@@ -273,6 +318,14 @@ collaboratively developed (副＋動)
 ```
 > ans: C
 
+3. The dining room furniture was left ____ in the house because the new owner bought it.
+```
+(A) intended
+(B) intention
+(C) intentional
+(D) intentionally
+```
+> ans: D
 
 
 ### 副+(名)
@@ -304,6 +357,16 @@ collaboratively developed (副＋動)
 (D) authorize
 ```
 > ans: D
+
+### 動+(副)
+1. Last year, the young chemists contributed ____ to the development of a new adhesive.
+```
+(A) construction
+(B) constructively
+(C) constructive
+(D) constructed
+```
+> ans: B
 
 ### 動名詞
 
