@@ -73,6 +73,24 @@
 ```
 > ans: D
 
+7. The ____ of the disease can be significantly slowed by taking the medicine developed by Dr. Toft's team.
+```
+(A) progressed
+(B) progression
+(C) progressive
+(D) progressively
+```
+> ans: B
+
+8. Ms. Carlton felt comfortable crossing the road because there were no vechicles coming in her ____.
+```
+(A) directly
+(B) direction
+(C) direct
+(D) directs
+```
+> ans: B
+
 ### 形+(名)
 
 1. To combat mental illness, the clinic will take a more comprehensive ____ than it did in the past.
@@ -110,6 +128,15 @@
 (D) dedication
 ```
 > ans: D
+
+5. Engaging in social ____, Ms. Mason quickly expanded her network after moving to a new city.
+```
+(A) active
+(B) activities
+(C) activates
+(D) activated
+```
+> ans: B
 
 ### 形容詞
 1. The negotiators made a few minor changes to the contract to make the terms ____ to both parties.
@@ -215,6 +242,24 @@
 (D) deteriorate
 ```
 > ans: B
+
+9. A sturdy support beam was added to the first story of the building for ____ reasons.
+```
+(A) structures
+(B) structurally
+(C) structure
+(D) structural
+```
+> ans: D
+
+10. Mr. Burrows was praised for creating ____ user manuals which can be easily unterstood.
+```
+(A) inform
+(B) informant
+(C) informs
+(D) informative
+```
+> ans: D
 
 ### 副詞
 副詞修飾形容詞、動詞、副詞
@@ -327,6 +372,15 @@ collaboratively developed (副＋動)
 ```
 > ans: D
 
+4. The clerk said that ____ fifteen customers had been waiting outside the store for it to open.
+```
+(A) rougher
+(B) roughly
+(C) rough
+(D) roughness
+```
+> ans: B
+
 
 ### 副+(名)
 1. Weekly ____ of the facility help to ensure that minor maintenance issue are discoved and resolved early.
@@ -335,6 +389,16 @@ collaboratively developed (副＋動)
 (B) investigated
 (C) investigative
 (D) investigates
+```
+> ans: A
+
+### (副)+動
+1. Ben Sanders ____ designed the suitcase to fold up easily for compact storage.
+```
+(A) innovatively
+(B) innovate
+(C) innovative
+(D) innovation
 ```
 > ans: A
 
@@ -397,6 +461,15 @@ collaboratively developed (副＋動)
 ```
 > and: D
 
+4. The company plans on ____ the salespeople for the expenses they incurred while attending the conference.
+```
+(A) reimbursement
+(B) reimbursed
+(C) reimburse
+(D) reimbursing
+```
+> ans: D
+
 ### 被動式語句
 
 1. Using a fingerprint sysrem is generally ____ as the primary means of security at laboratories in this country.
@@ -432,6 +505,24 @@ collaboratively developed (副＋動)
 (B) observed
 (C) observation
 (D) observe
+```
+> ans: B
+
+5. The charity's new reading program is ____ to increase literacy rates in developing countries over the next ten years.
+```
+(A) project
+(B) projecting
+(C) projected
+(D) projects
+```
+> ans: C
+
+6. When you return an item by mail, be sure the receipt is ____ to the request form to expedite processing.
+```
+(A) attachment
+(B) attached
+(C) attaching
+(D) attach
 ```
 > ans: B
 
