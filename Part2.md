@@ -18,6 +18,25 @@
 ```
 > ans: D
 
+3. Due to the high volume of foot traffic, the shop must polish its floors more ____ than usual during the peak season.
+```
+(A) frequent
+(B) frequented
+(C) frequency
+(D) frequently
+```
+> ans: D
+如果副詞是以 ly 結尾，就必須在副詞前加 more 來形成比較級，最高級則是在副詞前加 most。
+
+4. Financial advisors report that older investors tend to be ____ than their younger counterparts.
+```
+(A) cautious
+(B) cautioned
+(C) more cautious
+(D) caution
+```
+> ans: C
+
 ### 名詞
 1. A certificate of ____ was given to the participants in the public speaking skill course.
 ```
@@ -90,6 +109,33 @@
 (D) directs
 ```
 > ans: B
+
+9. The customer's order ____ will bbe sent by e-mail within twenty-four hours.
+```
+(A) confirmation
+(B) confirms
+(C) confirmed
+(D) confirm
+```
+> ans: A
+
+10. Mr. Albrecht's ____ in replying to the HR director's e-mail demonstrated that he was highly interested in the position.
+```
+(A) promptness
+(B) prompted
+(C) prompt
+(D) promptly
+```
+> ans: A
+
+11. The notice indicated that a first-aid training course will be provided free of charge to ____ next month.
+```
+(A) residents
+(B) residence
+(C) residential
+(D) resides
+```
+> ans: A
 
 ### 形+(名)
 
@@ -261,6 +307,25 @@
 ```
 > ans: D
 
+11. Despite having some problems with the sound system during the performance, the concert was an ____ experience for everyone.
+```
+(A) enjoyable
+(B) enjoyment
+(C) enjoys
+(D) enjoyably
+```
+> ans: A
+
+### 副+(形)
+1. As long as there are no further delays, the factory will be fully ____ by june 18.
+```
+(A) operational
+(B) operate
+(C) operates
+(D) operation
+```
+> ans: A
+
 ### 副詞
 副詞修飾形容詞、動詞、副詞
 
@@ -334,8 +399,7 @@ collaboratively developed (副＋動)
 ```
 > ans: C
 
-### (副)+形
-1. After examining the vehicle the mechanic had ____ identified the reason why the engine lost power.
+5. After examining the vehicle the mechanic had ____ identified the reason why the engine lost power.
 ```
 (A) corrections
 (B) correctly
@@ -343,6 +407,35 @@ collaboratively developed (副＋動)
 (D) corrects
 ```
 > ans: B
+
+### (副)+形
+1. Aurora Furnishings is finding it difficult to make a profit in its ____ competitive market.
+```
+(A) increases
+(B) increased
+(C) increasingly
+(D) increase
+```
+> ans: C
+
+2. The April edition of Fishing and more magazine looks ____ different from previous issues bbecause of the new art editor.
+```
+(A) completed
+(B) complete
+(C) completely
+(D) completing
+```
+> ans: C
+
+3. Thanks to his experience, Mr. Warren is ____ capabble of completing the jobb on his own.
+```
+(A) certainly
+(B) certain
+(C) certainty
+(D) certify
+```
+> ans: A
+
 
 #### 副詞句尾
 1. Following the restoration project, the lobby of the historical Kirkwood Hotel looked ___ like its original state.
@@ -381,6 +474,15 @@ collaboratively developed (副＋動)
 ```
 > ans: B
 
+5. The landlord raised the monthly rent for the first time in several years, and ____ so.
+```
+(A) reasonable
+(B) reasonably
+(C) reason
+(D) reasons
+```
+> ans: B
+
 
 ### 副+(名)
 1. Weekly ____ of the facility help to ensure that minor maintenance issue are discoved and resolved early.
@@ -401,6 +503,15 @@ collaboratively developed (副＋動)
 (D) innovation
 ```
 > ans: A
+
+2. The restaurant has a ____ decorated room that is perfect for hosting childern's parties.
+```
+(A) cheerful
+(B) cheerfully
+(C) cheerfulness
+(D) cheer
+```
+> ans: B
 
 ### 動詞
 
@@ -525,6 +636,42 @@ collaboratively developed (副＋動)
 (D) attach
 ```
 > ans: B
+
+7. With the help of one of the IT technicians, the missing accounting files have bbeen ____.
+```
+(A) recover
+(B) recovers
+(C) recovering
+(D) recovered
+```
+> ans: D
+
+8. We will make a final decision about changing the landscaping of the property after reviewing the ____ costs.
+```
+(A) estimation
+(B) estimate
+(C) estimated
+(D) estimating
+```
+> ans: C
+
+9. The naintenance team's repair requests should be ____ in groups according to the urgency.
+```
+(A) organizing
+(B) organize
+(C) organized
+(D) organizes
+```
+> ans: C
+
+10. The Parks and Recreation Department offers ____ opportunities for volunteers to improve the community.
+```
+(A) reward
+(B) rewards
+(C) rewarded
+(D) rewarding
+```
+> ans: D
 
 ### 動+(形)
 1. The home's sale becomes ____ when the offical document is recorded at the county office.
