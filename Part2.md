@@ -137,6 +137,15 @@
 ```
 > ans: A
 
+12. The company started to recognize the increasing ____ of using resources responsibly.
+```
+(A) more important
+(B) importantly
+(C) importance
+(D) important
+```
+> ans: C
+
 ### 形+(名)
 
 1. To combat mental illness, the clinic will take a more comprehensive ____ than it did in the past.
@@ -184,6 +193,15 @@
 ```
 > ans: B
 
+6. The upscale boutique jane's' Closet is know for selling the most stylish ____ for young professionals.
+```
+(A) accessorized
+(B) accessorize
+(C) accessorizes
+(D) accessories
+```
+> ans: D
+
 ### 形容詞
 1. The negotiators made a few minor changes to the contract to make the terms ____ to both parties.
 ```
@@ -209,6 +227,23 @@
 (B) presenting
 (C) presentable
 (D) present
+```
+> ans: C
+
+4. The figures that accompany the financial statement should be ____ to the spending category.
+```
+(A) relevance
+(B) relevantly
+(C) more relevently
+(D) relevant
+```
+
+5. During the peak season, it is ____ to hire additional workers for the weekend shifts.
+```
+(A) necessitate
+(B) necessarily
+(C) necessary
+(D) necessity
 ```
 > ans: C
 
@@ -316,6 +351,15 @@
 ```
 > ans: A
 
+12. The governmental department used to provide financial aid, but now it offers ____ services only.
+```
+(A) legal
+(B) legalize
+(C) legally
+(D) legalizes
+```
+> ans: A
+
 ### 副+(形)
 1. As long as there are no further delays, the factory will be fully ____ by june 18.
 ```
@@ -405,6 +449,15 @@ collaboratively developed (副＋動)
 (B) correctly
 (C) correct
 (D) corrects
+```
+> ans: B
+
+6. The company ____ lowered its prices to outsell its competitors and attract more customers.
+```
+(A) strategy
+(B) strategically
+(C) strategies
+(D) strategic
 ```
 > ans: B
 
@@ -512,6 +565,15 @@ collaboratively developed (副＋動)
 (D) cheer
 ```
 > ans: B
+
+3. The sprinklers for the lawn's irrigation system are ____ controlled.
+```
+(A) mechanically
+(B) mechanic
+(C) mechanism
+(D) mechanical
+```
+> ans: A
 
 ### 動詞
 
@@ -692,6 +754,25 @@ collaboratively developed (副＋動)
 (D) participated
 ```
 > ans: A
+
+2. The free clinin was founded by a group of doctors to give ____ for various medical conditions.
+```
+(A) treatment
+(B) treat
+(C) treated
+(D) treating
+```
+> ans: A
+
+### 動詞片語+v-ing
+1. For optimal safty on the road, avoid ____ the view of the rear window and side-view mirrors.
+```
+(A) obstructs
+(B) obstructed
+(C) obstruction
+(D) obstructing
+```
+> ans: D
 
 ### 不定詞 to + 原V
 1. The CEO held a press conference to ____ for the negative health effects caused by her company's products.
