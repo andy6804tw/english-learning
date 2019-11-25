@@ -146,6 +146,33 @@
 ```
 > ans: C
 
+13. The ____ of the Municipal Park Restoration Project was announced yesterday by the local hospiitality association.
+```
+(A) completed
+(B) completes
+(C) completion
+(D) complete
+```
+> ans: D
+
+14. Mr. Schweizer has worked under my ____ as an editorial assistant for the past five years.
+```
+(A) supervise
+(B) supervises
+(C) supervised
+(D) supervision
+```
+> ans: D
+
+15. Weekly ____ of the facility help to ensure that minor maintenance issue are discoved and resolved early.
+```
+(A) investigations
+(B) investigated
+(C) investigative
+(D) investigates
+```
+> ans: A
+
 ### 形+(名)
 
 1. To combat mental illness, the clinic will take a more comprehensive ____ than it did in the past.
@@ -202,6 +229,15 @@
 ```
 > ans: D
 
+7. The license for the trial version of Exi 2.0 software is valid for the 30-day period immediately ____ the date of issue.
+```
+(A) will follow
+(B) follows
+(C) followed
+(D) following
+```
+> ans: D
+
 ### 形容詞
 1. The negotiators made a few minor changes to the contract to make the terms ____ to both parties.
 ```
@@ -244,6 +280,15 @@
 (B) necessarily
 (C) necessary
 (D) necessity
+```
+> ans: C
+
+6. OE Fumiture Company is ____ to providing contemporary furniture at old-fishioned prices.
+```
+(A) dedication
+(B) dedicates
+(C) dedicated
+(D) dedicating
 ```
 > ans: C
 
@@ -359,6 +404,15 @@
 (D) legalizes
 ```
 > ans: A
+
+13. Because the statistices she used came from a ____ source, Ms. Unger was confident that her model for predicting weather patterns would give accurate results.
+```
+(A) reliably
+(B) reliable
+(C) relying
+(D) relies
+```
+> ans: B
 
 ### 副+(形)
 1. As long as there are no further delays, the factory will be fully ____ by june 18.
@@ -489,6 +543,15 @@ collaboratively developed (副＋動)
 ```
 > ans: A
 
+4. While offering similar vacation packages, travel agencies may charge ____ different prices.
+```
+(A) markedly
+(B) marked
+(C) marks
+(D) marking
+```
+> ans: A
+
 
 #### 副詞句尾
 1. Following the restoration project, the lobby of the historical Kirkwood Hotel looked ___ like its original state.
@@ -536,16 +599,26 @@ collaboratively developed (副＋動)
 ```
 > ans: B
 
+6. The loan application process at Palau Bay Bank is vary ____.
+```
+(A) efficient
+(B) efficiency
+(C) efficiently
+(D) efficiencies
+```
+> ans: C
 
-### 副+(名)
-1. Weekly ____ of the facility help to ensure that minor maintenance issue are discoved and resolved early.
+7. Aliflora, Inc., grows fifty varieties of roses ____ and is now the second largest exporter in the region.
 ```
-(A) investigations
-(B) investigated
-(C) investigative
-(D) investigates
+(A) commerce
+(B) commercial
+(C) commercially
+(D) commercials
 ```
-> ans: A
+> ans: C
+
+### 名+(副)
+
 
 ### (副)+動
 1. Ben Sanders ____ designed the suitcase to fold up easily for compact storage.
@@ -595,6 +668,24 @@ collaboratively developed (副＋動)
 ```
 > ans: D
 
+3. Participation in the Louisville Business Workshops is ____ to all business owners.
+```
+(A) open
+(B) opener
+(C) opens
+(D) openly
+```
+> ans: A
+
+4. Despite heavy competition from established carriers, Sport Airlines has managed to do more than just ____ in the narrow luxury niche.
+```
+(A) survived
+(B) survives
+(C) surive
+(D) survivor
+```
+> ans: C
+
 ### 動+(副)
 1. Last year, the young chemists contributed ____ to the development of a new adhesive.
 ```
@@ -604,6 +695,15 @@ collaboratively developed (副＋動)
 (D) constructed
 ```
 > ans: B
+
+2. Unlike traditional book publishers, P-Gram Books focuses ____ on producing audio books that can be downloaded from the internet.
+```
+(A) exclusively
+(B) exclusive
+(C) exclusives
+(D) exclusuvuty
+```
+> ans: A
 
 ### 動名詞
 
@@ -640,6 +740,15 @@ collaboratively developed (副＋動)
 (B) reimbursed
 (C) reimburse
 (D) reimbursing
+```
+> ans: D
+
+5. Researchers at Gasnite Company have developed an improved method of ____ fuel from industral waste materials.
+```
+(A) extraction
+(B) extracts
+(C) extracted
+(D) extracting
 ```
 > ans: D
 
@@ -771,6 +880,15 @@ collaboratively developed (副＋動)
 (B) obstructed
 (C) obstruction
 (D) obstructing
+```
+> ans: D
+
+2. The Rio Blue jacket comes with a specially shaped pocket that prevents loose coin from ____ out.
+```
+(A) drop
+(B) drops
+(C) dropped
+(D) dropping
 ```
 > ans: D
 
