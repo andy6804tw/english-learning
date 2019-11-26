@@ -9,3 +9,4 @@
 
 ## 名詞片語
 1. completion of 完成
+2. outside of 外部
