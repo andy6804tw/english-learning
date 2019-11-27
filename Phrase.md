@@ -5,6 +5,7 @@
 
 ## 動詞片語
 1. avoid + (n./v-ing) 避開
+2. look forward to + (n./v-ing) 期待...
 
 
 ## 名詞片語
