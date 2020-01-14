@@ -6,7 +6,7 @@
 ## 動詞片語
 1. avoid + (n./v-ing) 避開
 2. look forward to + (n./v-ing) 期待...
-
+3. have a word with 對...說(尤指私下的或秘密的事)
 
 ## 名詞片語
 1. completion of 完成
