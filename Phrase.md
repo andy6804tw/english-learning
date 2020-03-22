@@ -11,6 +11,7 @@
 5. mind + v-ing 介意
 6. can't help but (to) + 原v
 7. nothing to do but (to) + 原v
+8. can not be too + adj 無論...也不為過
 
 ## 名詞片語
 1. completion of 完成
