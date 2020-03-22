@@ -16,6 +16,7 @@
 ## 名詞片語
 1. completion of 完成
 2. outside of 外部
+3. a series of + 複數名詞
 
 ## 連接詞
 1. now what + 主 + 動 因為...
