@@ -18,6 +18,7 @@
 2. outside of 外部
 3. a series of + 複數名詞
 4. in an effort to 努力
+5. interaction with 相互影響
 
 ## 連接詞
 1. now what + 主 + 動 因為...
