@@ -20,5 +20,8 @@
 4. in an effort to 努力
 5. interaction with 相互影響
 
+## 副詞片語
+1. is commonly known as 俗稱
+
 ## 連接詞
 1. now what + 主 + 動 因為...
