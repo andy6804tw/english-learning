@@ -37,6 +37,16 @@ The idea of PL may be intuitively understood by the following example.
 藉由以下的例子可以很直觀地了解PL的概念
 ```
 
+# 2
+```
+An adaptive network  is a multi-layer feedforward network in which each node performs a particular function on incoming signals.
+自適應網路是一個多層的前潰網路，其中每個節點在輸入信號執行特定的功能。
+```
+
+```
+There have been different strategies to enhance the performance of an under-performing machine learning model.
+有多種不同的策略可以提高表現不佳的機器學習模型的性能
+```
 
 
 
