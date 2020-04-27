@@ -48,6 +48,13 @@ There have been different strategies to enhance the performance of an under-perf
 有多種不同的策略可以提高表現不佳的機器學習模型的性能
 ```
 
+# Result
+```
+Due to the adaptive capability of ANFIS, its applications to adaptive control and learning control are immediate.
+```
+```
+Fuzzy control is by far the most successful applications of the fuzzy set theory and fuzzy inference systems.
+```
 
 
 - [副詞片語](http://www.hosenglish.com/newbook/HC_6-4.pdf)
