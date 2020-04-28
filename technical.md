@@ -50,10 +50,17 @@ There have been different strategies to enhance the performance of an under-perf
 
 # Result
 ```
-Due to the adaptive capability of ANFIS, its applications to adaptive control and learning control are immediate.
+Due to the adaptive capability of fuzzy inference system, its applications to adaptive control and learning control are immediate.
+由於模糊推論系統的自適應能力，在自適應控制和學習控制中的應用是即時的。
 ```
+
+```
+It goes without saying that the nonlinear ANFIS outperforms the linear AR model.
+```
+
 ```
 Fuzzy control is by far the most successful applications of the fuzzy set theory and fuzzy inference systems.
+到目前為止模糊控制是模糊集理論和模糊推理系統最成功的應用。
 ```
 
 
