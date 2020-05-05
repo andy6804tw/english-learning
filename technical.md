@@ -67,6 +67,12 @@ Fuzzy control is by far the most successful applications of the fuzzy set theory
 第一句paper，第二句造句。
 
 ## Abstract
+```
+In this paper we propose three statistical measures, which is expressly designed to group separability of data samples in a geometrical space.
+在本篇論文中我們提出三種統計度量，這些方法被特別地設計於幾何空間中數據樣本的群體可分性
 
+This algorithm is expressly designed to solve the optimization problem.
+這個演算法被特別地設計去解決優化問題。
+```
 
 - [副詞片語](http://www.hosenglish.com/newbook/HC_6-4.pdf)
