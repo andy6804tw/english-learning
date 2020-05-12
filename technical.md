@@ -76,3 +76,19 @@ The algorithm we have proposed is expressly designed to solve the optimization p
 ```
 
 - [副詞片語](http://www.hosenglish.com/newbook/HC_6-4.pdf)
+
+## Introduction
+```
+All of the above-mentioned steps have been proven to make the proposed algorithm much faster than the conventional algorithm.
+上述的所有步驟已經證明了提出的演算法比傳統的演算法還來得快。
+
+Our algorithm is more complex than the conventional algorithm, especially in both modeling and control.
+我們的演算法比傳統演算法更複雜，尤其是在建模和控制方面。
+```
+
+
+## 1
+```
+The knowledge base system is made up of rule base , predicate base , variable base and dictionary base
+模糊知識庫系統由規則庫、謂詞庫、個體變元庫和字典庫組成。
+```
