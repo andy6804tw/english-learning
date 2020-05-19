@@ -89,6 +89,17 @@ Our algorithm is more complex than the conventional algorithm, especially in bot
 
 ## 1
 ```
-The knowledge base system is made up of rule base , predicate base , variable base and dictionary base
-模糊知識庫系統由規則庫、謂詞庫、個體變元庫和字典庫組成。
+The network is made up of n devices, each with transmission range r, placed on an area A.
+網絡是由放置在區域A上的n個設備組成，每個設備的傳輸範圍為r。
+
+The knowledge base system is made up of rule base, predicate base, variable base, and dictionary base.
+知識庫系統由規則庫、謂詞庫和字典庫組成。
+```
+
+
+## 2
+```
+Note that the idea of patch is critical here, because it determines which weak learner is used in the final prediction.
+
+note that the analysis presented above is not applicable to uncertainty problem.
 ```
